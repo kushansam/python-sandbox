@@ -1,0 +1,7 @@
+# macOS files
+.DS_Store
+.AppleDouble
+# Dependencies
+node_modules/
+# Log files
+*.log
